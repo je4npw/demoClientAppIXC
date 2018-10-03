@@ -1,6 +1,5 @@
 # Teste alfa de aplicativo de cliente IXCsoft
- Usuário - id@54<br>
- Senha - demo
+ Usuário - 54<br>
 
 Baixe o apk e libere a instalação de aplicativos de terceiros em seu dispositivo android.<br>
 Esse apk está instalado em http://demo.ixcsoft.com.br
